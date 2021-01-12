@@ -9,3 +9,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2020-12-12**: Flutter environment fixes (PATH, Android Studio 4.1 plugins)  
   _Evidence:_ Google searches 'add flutter to path', 'flutter plugin not installed android studio 4.1'
+
+- **2021-01-12**: UI: added Google Fonts package  
+  _Evidence:_ Google search 'import package google fonts in flutter'; pub.dev google_fonts visit
