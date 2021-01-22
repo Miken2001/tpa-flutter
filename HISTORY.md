@@ -12,3 +12,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-01-12**: UI: added Google Fonts package  
   _Evidence:_ Google search 'import package google fonts in flutter'; pub.dev google_fonts visit
+
+- **2021-01-22**: UI packages for the app  
+  _Evidence:_ Google search 'ui flutter package'
