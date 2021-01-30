@@ -18,3 +18,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-01-28**: Firebase project setup  
   _Evidence:_ Google search 'firebase console'
+
+- **2021-01-30**: Firebase Authentication for Android (email link, user management)  
+  _Evidence:_ Google Developers activity: firebase.google.com/docs/auth/android/email-link-auth and /manage-users
